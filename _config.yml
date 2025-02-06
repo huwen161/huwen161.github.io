@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Wenhao hu personal homepage"
 title_separator          : "-"
 name                     : &name "Wenhao hu"
 description              : &description "personal description"
