@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student from [School of EECS](https://math.xjtu.edu.cn/), [Peking University](https://www.xjtu.edu.cn/). My research interest includes computer vision, big data applications, machine learning, and reinforcement learning.
+I'm a graduate student from [School of MATH](https://math.xjtu.edu.cn/), [Xian jiaotong University](https://www.xjtu.edu.cn/). My research interest includes computer vision, big data applications, machine learning, and reinforcement learning.
