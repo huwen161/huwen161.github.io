@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I received my bachelor's degree from Xi'an University of Science and Technology (XUST) in 2023.Now I'm a graduate student from [School of MATH](https://math.xjtu.edu.cn/), [Xian jiaotong University](https://www.xjtu.edu.cn/)under the supervision of Professor Yang Shusen. I research interests include network optimization, reinforcement learning, and edge cloud intelligence.
+Wenhao Hu graduated from Xi'an University of Science and Technology (XUST) in 2023. Now, he is pursuing a master's degree at Xi'an Jiaotong University under the supervision of Professor Shusen Yang. His interests include reinforcement learning, network optimization, and more.
